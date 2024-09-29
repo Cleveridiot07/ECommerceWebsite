@@ -1,2 +1,8 @@
-# ECommerceWebsite
- An eCommerce project that offers a seamless online shopping experience, featuring detailed product pages, user reviews, and cart functionality. It allows users to browse products, view specifications, manage their cart, and access information on warranties and return policies, all enhanced by Redux for efficient state management.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
